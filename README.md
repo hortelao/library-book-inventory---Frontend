@@ -19,14 +19,15 @@ This project is the frontend for managing a library's book inventory. It allows 
 
    ```sh
    git clone https://github.com/hortelao/library-book-inventory---Frontend
-   cd cd Library\ Book\ Inventory/
+   cd Library\ Book\ Inventory/
 
    ```
 
 2. **Install Dependencies**
 
-sh
+```sh
 npm install
+```
 
 3. **Configure Environment Variables**
 
@@ -38,8 +39,10 @@ This should point to the URL where your backend API is running.
 
 Run the Frontend
 
-sh
+```sh
 npm run dev
+```
+
 The frontend will be accessible at http://localhost:5173.
 
 ## API Endpoints
