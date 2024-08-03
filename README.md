@@ -19,7 +19,7 @@ This project is the frontend for managing a library's book inventory. It allows 
 
    ```sh
    git clone https://github.com/hortelao/library-book-inventory---Frontend
-   cd library-book-inventory---Frontend/frontend
+   cd cd Library\ Book\ Inventory/
 
    ```
 
