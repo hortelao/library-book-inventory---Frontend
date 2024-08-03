@@ -50,11 +50,11 @@ The frontend will be accessible at http://localhost:5173.
 
 The frontend communicates with the following backend API endpoints:
 
-GET /api/books - Retrieve a list of all books.
-GET /api/books/{id} - Retrieve details of a specific book by ID.
-POST /api/books - Add a new book.
-PUT /api/books/{id} - Update an existing book by ID.
-DELETE /api/books/{id} - Delete a book by ID.
+**GET** /api/books - Retrieve a list of all books.
+**GET** /api/books/{id} - Retrieve details of a specific book by ID.
+**POST** /api/books - Add a new book.
+**PUT** /api/books/{id} - Update an existing book by ID.
+**DELETE** /api/books/{id} - Delete a book by ID.
 
 ## Contact
 For any issues or questions, please contact [andrefhortelao@gmail.com].
