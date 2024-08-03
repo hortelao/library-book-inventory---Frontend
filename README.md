@@ -18,7 +18,7 @@ This project is the frontend for managing a library's book inventory. It allows 
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/hortelao/library-book-inventory---Frontend
+   git clone https://github.com/hortelao/library-book-inventory---Frontend.git
    cd Library\ Book\ Inventory/
 
    ```
